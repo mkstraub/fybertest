@@ -1,0 +1,91 @@
+{
+    "customers": [
+        {
+            "customer_id": "12345",
+            "app_id": "0000001"
+        },
+        {
+            "customer_id": "12345",
+            "app_id": "0000002"
+        },
+        {
+            "customer_id": "12345",
+            "app_id": "0000003"
+        },
+        {
+            "customer_id": "11111",
+            "app_id": "5555555"
+        },
+        {
+            "customer_id": "11111",
+            "app_id": "6666666"
+        }
+    ],
+    "apps": [
+        {
+        "app_id": "0000001",
+        "app_name": "YouTube"
+        },
+        {
+        "app_id": "0000002",
+        "app_name": "Instagram"
+        },
+        {
+        "app_id": "0000003",
+        "app_name": "Spotify"
+        },
+        {
+        "app_id": "5555555",
+        "app_name": "Bubble Shooter"
+        },
+        {
+        "app_id": "6666666",
+        "app_name": "Waze"
+        }
+    ],
+    "performance": [
+        {
+            "app_id": "1",
+            "requests": "10000",
+            "valid_responses": "9000",
+            "datetime": "2018-01-01 10:00:00"
+        },
+        {
+            "app_id": "1",
+            "requests": "20",
+            "valid_responses": "3",
+            "datetime": "2018-01-01 12:00:00"
+        },
+        {
+            "app_id": "3",
+            "requests": "1.23128E+11",
+            "valid_responses": "500,000",
+            "datetime": "2018-01-01 10:00:00"
+        },
+        {
+            "app_id": "5555555",
+            "requests": "100,000",
+            "valid_responses": "13,000",
+            "datetime": "2018-01-01 10:00:00"
+        },
+        {
+            "app_id": "6666666",
+            "requests": "25,000,000",
+            "valid_responses": "7,000,000",
+            "datetime": "2018-01-01 10:00:00"
+        },
+        {
+            "app_id": "6666666",
+            "requests": "13,000,000",
+            "valid_responses": "10,000,000",
+            "datetime": "2018-01-01 11:00:00"
+        },
+        {
+            "app_id": "6666666",
+            "requests": "18,000,000",
+            "valid_responses": "17,500,000",
+            "datetime": "2018-01-01 15:00:00"
+        }
+    ]
+
+}
